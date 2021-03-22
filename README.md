@@ -159,3 +159,12 @@ i added there two lines to the settings file:
     "debug.allowBreakpointsEverywhere": true,
     "php.validate.executablePath": "C:\\php\\php.exe"
     }
+
+### Start debugging in Visual Studio code
+
+create a test.php file and and some php code.
+Start debugging using Ctrl-Shift-D
+Create a launch.json file
+
+![Launch.json](https://user-images.githubusercontent.com/2221944/112016255-dbf4af80-8b2c-11eb-946e-85dffe3e3346.png)
+![PoC ;-)](https://user-images.githubusercontent.com/2221944/112016260-dc8d4600-8b2c-11eb-9fc4-251227de455e.png)
