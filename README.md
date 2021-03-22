@@ -63,7 +63,7 @@ In your start menu you'll find Ubuntu. Start it. First time setup will run, ente
 to update your Ubuntu installation:
 
     sudo apt update -y
-    sudo apt upgrad -y
+    sudo apt upgrade -y
 this will take a minute or two .. 
 ## Install Visual Studio Code
 
@@ -84,7 +84,7 @@ If you get a PHP Version, php is installed, if not, install it using:
     sudo apt install php -y
 
 ### Install and configure Xdebug in WSL
-<a href="https://xdebug.org/docs/install" target="_black">More about Xdebug
+<a href="https://xdebug.org/docs/install" target="_black">More about Xdebug</a>
 
 In WSL type: 
 
